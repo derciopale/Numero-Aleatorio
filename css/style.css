@@ -1,0 +1,152 @@
+*{
+	margin: 0;
+	padding: 0;
+}
+
+body{
+    background: silver;
+}
+
+.navigation-bar{
+	width: 100%;
+	height: 70px;
+	background: #4c4c4c;
+}
+
+.logo{
+	width: 180px;
+	float: left;
+
+}
+
+.logo img{
+	width: 200px;
+	margin-top: 10px;
+
+}
+
+.search-area{
+	width: 550px;
+	height: 70px;
+	float: left;
+	margin-left: 50px;
+
+}
+
+.search_box{
+	width: 500px;
+	padding: 10px;
+	margin-top: 10px;
+	float: left;
+
+}
+
+.search_btn{
+	float:left;
+	margin-top: 8px;
+	padding: 12px;
+	border-radius:0; 
+}
+
+
+.user-menu{
+    width: 300px;
+    height: 60px;
+    float: right;
+    
+}
+
+.user-menu ul {
+    float: right;
+    
+}
+
+.user-menu ul li{
+    list-style: none;
+    float: left;
+    height: 70px;
+    line-height: 70px;
+    width: 125px;
+    text-align: center;
+    
+}
+
+.user-menu li:hover{
+    background: #14ba15
+        
+    
+}
+
+.user-menu ul li a{
+    text-decoration: none;
+    color: white;
+    display: block;
+    
+}
+
+.user-menu button{
+    color: #fff;
+    height: 40px;
+    line-height: 30px;
+}
+
+
+
+.slider-area{
+    width: 100%;
+    height: 320px;
+    
+}
+
+.slider-area .slider img{
+    width: 100%;
+    height: 320px;
+}
+
+.bx-wrapper{
+    border: none !important;
+   
+    
+}
+
+
+/*# pontinhos slide*/
+.bx-wrapper .bx-pager{
+    bottom:35px;
+    color: white;
+}
+
+
+.bx-wrapper .bx-controls-auto, .bx-wrapper .bx-pager{
+    bottom: 10px !importante;
+}
+
+
+/*Testo e botao comprar ja*/
+.slider-content{
+    position: absolute;
+    top: 100px;
+    left: 100px;
+    width: 600px;
+}
+
+.product-section{
+    width: 100%;
+    background: #ffff;
+    padding: 30px 10px;
+    margin-top: 15px 0;
+}
+
+.section-heading{
+    width: 100%;
+    height: 40px;
+    
+}
+
+.section-heading .heading{
+    font-weight: 400px;
+    border-bottom: 2px solid;
+    padding-bottom: 7px;
+    padding: 7px;
+    
+}

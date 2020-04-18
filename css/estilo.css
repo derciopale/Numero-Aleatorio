@@ -1,0 +1,23 @@
+*{
+	padding: 0px;
+	margin: 0px;
+	background-color: #fafafa;
+}
+
+
+
+.externa {
+text-align: center;
+width: 100%;
+background: red;
+}
+.interna {
+display: inline-block
+background:black;
+}
+
+
+
+
+
+
